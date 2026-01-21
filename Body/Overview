@@ -5,3 +5,4 @@ The body will be made of multiple sections
 There can also be space on the body to add another leg on each side to make it a hexapod
 
 The leg connector will have 3 screw holes in it to allow it to be screws onto the main body
+Each connector will have a sensor for the computer to e see which leg is connected and which isn't. When a lot isn't connected and there isn't enough legs for it to walk then the app will give an wir saying "[leg] not connected, cannot move. please connect [leg]"
